@@ -22,4 +22,4 @@ authorizations = {
 
 app.config.from_object('config.Config')
 
-db = SQLAlchemy(app)
+#db = SQLAlchemy(app)
